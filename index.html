@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Manifold Bulk Burn/Redeem</title>
+    <meta name="description" content="Bulk burn and redeem tokens from Manifold burn/redeem campaigns. Select multiple tokens and redeem them all at once." />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Manifold Bulk Burn/Redeem" />
+    <meta property="og:description" content="Bulk burn and redeem tokens from Manifold burn/redeem campaigns. Select multiple tokens and redeem them all at once." />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Manifold Bulk Burn/Redeem" />
+    <meta name="twitter:description" content="Bulk burn and redeem tokens from Manifold burn/redeem campaigns. Select multiple tokens and redeem them all at once." />
+
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔥</text></svg>" />
+    <style>
+      body {
+        background: #0a0a0a;
+        color: #f0f0f0;
+        margin: 0;
+        padding: 0;
+        min-height: 100vh;
+      }
+      #root:empty::before {
+        content: 'Loading...';
+        display: block;
+        padding: 40px;
+        text-align: center;
+        color: #888;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
