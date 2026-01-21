@@ -4,7 +4,7 @@
 
 A web application for bulk redeeming tokens from Manifold burn/redeem campaigns. Redeem multiple tokens in a single session instead of processing them one by one.
 
-**Live demo**: [burnredeem.ripe.wtf](https://burnredeem.ripe.wtf/0xbd6a35f940Af142Ec7f093a35FAB697d98C9F9Bd/0xFc29813Beeb3c7395C7A5f8dfC3352491D5ea0E2)
+**Live at**: [burnredeem.ripe.wtf](https://burnredeem.ripe.wtf) | [Example: Batz's My Meme Folder](https://burnredeem.ripe.wtf/0xbd6a35f940Af142Ec7f093a35FAB697d98C9F9Bd/0xFc29813Beeb3c7395C7A5f8dfC3352491D5ea0E2)
 
 ![Bulk Burn & Redeem UI](screenshot.png)
 
